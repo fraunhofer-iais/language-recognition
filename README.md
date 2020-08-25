@@ -1,10 +1,7 @@
 # Language-Recognition Using ConvNets
 _Written by Joscha S. Rieber (Fraunhofer IAIS) in 2020_
 
-This project shows how to train a language-recognizer from scratch that is able to distinguish between German and English, robustly.
-
-## Data and Model
-To run these notebooks, you will use data from [mozilla Common Voice](https://commonvoice.mozilla.org). Please note that the data is not perfectly suited, so the model accuracy will not be better than 90 %. For better results one needs much more data. Also, a larger model such as Inception V3 can inherently improve the model accuracy.
+This project shows how to train a language-recognizer from scratch that is able to distinguish between German and English. These notebooks build up a playground together with the data from Common Voice to build strong models.
 
 ## Getting Started
 * On Linux:
@@ -12,6 +9,9 @@ To run these notebooks, you will use data from [mozilla Common Voice](https://co
   * Call "bash run.sh"
     * This script will first look if the environment is ready, if not, it will download Miniconda and create the conda environment. Please note that you will need "wget" to succeed.
   * Now go through the notebooks in the right order and follow the given instructions.
+  
+## Requirements
+See requirements.txt for full list of pip requirements.
 
 ## References
  * [Bartz et al.: Language Identification Using Deep Convolutional Recurrent Neural Networks](https://www.springerprofessional.de/language-identification-using-deep-convolutional-recurrent-neura/15202392)
