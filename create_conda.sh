@@ -16,3 +16,4 @@ conda/bin/conda install -y -c conda-forge librosa=0.8.0
 conda/bin/conda install -y -c anaconda tensorflow-gpu=2.2.0
 conda/bin/conda install -y -c conda-forge imageio=2.8.0
 conda/bin/conda install -y -c conda-forge jupyterlab=2.1.5
+conda/bin/conda install -y -c anaconda pandas=1.1.3
