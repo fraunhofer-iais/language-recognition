@@ -1,7 +1,7 @@
 # Language-Recognition Using ConvNets
 _Written by Joscha S. Rieber (Fraunhofer IAIS) in 2020_
 
-This project shows how to train a language-recognizer from scratch that is able to distinguish between German and English. These notebooks build up a playground together with the data from Common Voice to build strong models.
+This project shows how to train a language-recognizer from scratch that is able to distinguish between German and English. These notebooks build up a playground together with the data from Common Voice to build strong models. With the data, pre-processing and model the accuracy is 94 %.
 
 ## Getting Started
 * On Linux:
