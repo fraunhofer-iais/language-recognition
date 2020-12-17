@@ -3,6 +3,9 @@ _Written by Joscha S. Rieber (Fraunhofer IAIS) in 2020_
 
 This project shows how to train a language recognizer from scratch that is able to distinguish between German and English. These notebooks build up a playground together with the data from Common Voice to build strong models. With the data, pre-processing and model the accuracy is 93.8 %.
 
+## Have a Look at my Article on Towards AI
+This repository is also described in more detail in [my article published by Towards AI](https://medium.com/towards-artificial-intelligence/spoken-language-recognition-using-convolutional-neural-networks-6aec5963eb18).
+
 ## Getting Started
 * On Linux:
   * Download this repository from GitHub
